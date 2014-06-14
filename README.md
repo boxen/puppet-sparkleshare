@@ -3,7 +3,7 @@
 Installs SparkleShare - Self hosted, instant, secure file sync.
 
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.svg?branch=master)](https://travis-ci.org/boxen/puppet-template)
+[![Build Status](https://travis-ci.org/boxen/puppet-sparkleshare.svg?branch=master)](https://travis-ci.org/boxen/puppet-template)
 
 ## Usage
 
