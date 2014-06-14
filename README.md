@@ -1,6 +1,6 @@
 # SparkleShare
 
-Installs SparkleShare - Self hosted, instant, secure file sync.
+Installs SparkleShare - Self hosted, instant, secure file sync (http://sparkleshare.org).
 
 
 [![Build Status](https://travis-ci.org/calmyournerves/puppet-sparkleshare.svg?branch=master)](https://travis-ci.org/calmyournerves/puppet-sparkleshare)
